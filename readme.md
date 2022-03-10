@@ -6,18 +6,10 @@
 Projeto desenvolvido como se fosse uma rede social ou uma rede de comentários onde cada usuário pode comentar o que quiser, pode descrever seus pensamentos. Pensamentos que ficam marcados com o nome do usuário que o cadastrou. É possível também buscar por pensamentos com palavras-chave, limpar a buscar, ordenar por pensamentos mais atuais ou mais antigos.
 
 
-## Layout aberto no VSCode
-![Projeto](https://github.com/nikolassco/projeto-Accounts/blob/main/assets/layout.png) 
+## Layout navegador
+![Projeto](https://github.com/nikolassco/asset/blob/main/Toughts%20-%20Google%20Chrome%2010_03_2022%2017_26_39.png) 
 
-## Mais detalhes sobre
-Esse projeto utiliza o terminal para "brincar" e mostrar funcionalidades como: 
-* Criar uma conta: Criar um novo usuario/conta.
-* Consultar saldo: Consultar saldo da conta acessada.
-* Depositar: Adicionar saldo.
-* Sacar: Tirar valor do saldo.
-* Sair: Fechar a interação e encerrar aplicação.
 
-Tecnologia: JavaScript
 
 # Como executar o projeto
 
