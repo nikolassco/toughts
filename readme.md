@@ -17,7 +17,7 @@ Projeto desenvolvido como se fosse uma rede social ou uma rede de comentários o
 
 ```bash
 # clonar repositório
-git clone https://github.com/nikolassco/projeto-Accounts.git
+git clone https://github.com/nikolassco/toughts.git
 ```
 
 ## Abra a pasta no VSCode
