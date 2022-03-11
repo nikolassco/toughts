@@ -8,6 +8,9 @@ Projeto desenvolvido como se fosse uma rede social ou uma rede de comentários o
 
 # Layout navegador
 ![Projeto](https://github.com/nikolassco/asset/blob/main/Toughts%20-%20Google%20Chrome%2010_03_2022%2017_26_39.png) 
+![Projeto](https://github.com/nikolassco/asset/blob/main/Toughts%20-%20Google%20Chrome%2011_03_2022%2001_32_31.png) 
+![Projeto](https://github.com/nikolassco/asset/blob/main/Toughts%20-%20Google%20Chrome%2011_03_2022%2001_32_37.png)
+![Projeto](https://github.com/nikolassco/asset/blob/main/Toughts%20-%20Google%20Chrome%2011_03_2022%2001_33_30.png)
 
 # Pré-requisitos: 
 
